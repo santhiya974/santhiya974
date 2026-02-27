@@ -1,5 +1,5 @@
-# santhiya974
-My GitHub Profile README
+<img src="https://raw.githubusercontent.com/santhiya974/santhiya974/refs/heads/main/banner.png" width="100%" />
+https://raw.githubusercontent.com/santhiya974/santhiya974/refs/heads/main/banner.png
 # Hi 👋 I'm Santhiya
 
 I am currently pursuing my final year B.E CSE.  
