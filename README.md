@@ -43,14 +43,14 @@ The goal of this project was to understand how AI can help in early medical diag
 
 ---
 
-### 🐅 Real-Time Wild Animal Detection in Restricted Areas
+### 🐅 [Real-Time Wild Animal Detection in Restricted Areas](https://github.com/santhiya974/wild-animal-intrusion-detection.git)
 This project is designed to detect wild animals entering restricted or sensitive areas using real-time video input.
 It helps in preventing human-animal conflicts and improves safety.
 I worked on object detection techniques to identify animals from live camera footage.
 
 ---
 
-### 🚗 Driver Drowsiness Detection System
+### 🚗[Driver Drowsiness Detection System](https://github.com/santhiya974/driver-drownsiness-detection.git)
 This project detects whether a driver is feeling sleepy while driving.
 It uses computer vision techniques to monitor eye movement and facial features.
 The system can alert the driver to prevent accidents caused by drowsiness.
