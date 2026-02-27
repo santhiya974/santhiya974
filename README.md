@@ -54,6 +54,7 @@ I worked on object detection techniques to identify animals from live camera foo
 This project detects whether a driver is feeling sleepy while driving.
 It uses computer vision techniques to monitor eye movement and facial features.
 The system can alert the driver to prevent accidents caused by drowsiness.
+
 ---
 ### AI + MERN Integrated Web Application
 
