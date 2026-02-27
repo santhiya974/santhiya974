@@ -1,4 +1,4 @@
-# santhiya-974
+# santhiya974
 My GitHub Profile README
 # Hi 👋 I'm Santhiya
 
