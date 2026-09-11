@@ -37,7 +37,7 @@ Building practical web applications and AI-driven systems with the MERN stack, P
 <br>
 
 ## Tech Stack
-
+<center>
 <table>
 <tr>
 <td align="center" width="96">
@@ -46,9 +46,9 @@ Building practical web applications and AI-driven systems with the MERN stack, P
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br><sub>JavaScript</sub>
 </td>
-<td align="center" width="96">
+<!-- <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" /><br><sub>C</sub>
-</td>
+</td> -->
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br><sub>HTML5</sub>
 </td>
@@ -97,7 +97,7 @@ Building practical web applications and AI-driven systems with the MERN stack, P
 </td>
 </tr>
 </table>
-
+</center>
 <br>
 
 ## Engineering Focus
