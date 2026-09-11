@@ -121,7 +121,15 @@ Building practical web applications and AI-driven systems with the MERN stack, P
 
 <br>
 
-#### 🛒 GadgetHub — E-Commerce Web Application
+<table>
+<tr>
+<td valign="top" width="50%">
+
+#### 🛒 GadgetHub
+**E-Commerce Web Application**
+
+![Web App](https://img.shields.io/badge/Web_App-3b82f6?style=flat-square)
+
 *A full-stack e-commerce platform built and validated against defined functional requirements.*
 
 > **My contribution**
@@ -135,9 +143,14 @@ Building practical web applications and AI-driven systems with the MERN stack, P
 [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/santhiya974/gadgethub)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://gadgethub-tech-gadget.netlify.app/)
 
-<br>
+</td>
+<td valign="top" width="50%">
 
-#### 🚗 Driver Drowsiness Detection System
+#### 🚗 Driver Drowsiness Detection
+**Real-Time Fatigue Monitoring**
+
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-3b82f6?style=flat-square)
+
 *A real-time fatigue-monitoring system that analyzes eye movement to flag driver drowsiness.*
 
 > **My contribution**
@@ -145,13 +158,19 @@ Building practical web applications and AI-driven systems with the MERN stack, P
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-111827?style=flat-square)
 
 [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/santhiya974/driver-drownsiness-detection)
 
-<br>
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
 #### 🦁 Wild Animal Intrusion Detection
+**Real-Time Alert System**
+
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-3b82f6?style=flat-square)
+
 *A real-time detection system that flags wild-animal intrusions into restricted areas from live video streams.*
 
 > **My contribution**
@@ -164,9 +183,15 @@ Building practical web applications and AI-driven systems with the MERN stack, P
 
 [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/santhiya974/wild-animal-intrusion-detection)
 
-<br>
+</td>
+<td valign="top" width="50%">
 
-#### 🔐 TheyDi — Face Verification & Liveness Module
+#### 🔐 TheyDi
+**Face Verification & Liveness Module**
+
+![Mobile](https://img.shields.io/badge/Mobile-3b82f6?style=flat-square)
+![Scope](https://img.shields.io/badge/Module_Contributor-39d6c9?style=flat-square)
+
 *A Flutter-based social gathering app for the Indian market.*
 
 > ⚠️ **I did not build the full application.** My contribution was specifically the face verification module.
@@ -177,11 +202,17 @@ Building practical web applications and AI-driven systems with the MERN stack, P
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Google ML Kit](https://img.shields.io/badge/Google_ML_Kit-111827?style=flat-square&logo=google&logoColor=white)
-![Scope](https://img.shields.io/badge/Scope-Module_Contributor-3b82f6?style=flat-square)
 
-<br>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top" align="center">
 
-#### 🧬 Breast Cancer Classification (Academic Project)
+#### 🧬 Breast Cancer Classification
+**Image Classification & Dimensionality Reduction**
+
+![Academic Project](https://img.shields.io/badge/Academic_Project-3b82f6?style=flat-square) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-39d6c9?style=flat-square)
+
 *An image classification project exploring dimensionality reduction and classical ML models for early cancer detection screening.*
 
 > **My contribution**
@@ -192,6 +223,10 @@ Building practical web applications and AI-driven systems with the MERN stack, P
 ![PCA](https://img.shields.io/badge/PCA-111827?style=flat-square)
 
 [![Notebook](https://img.shields.io/badge/Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)](YOUR_LINK_HERE) — *replace with your Colab/GitHub link*
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -235,26 +270,18 @@ Full contribution activity is shown automatically on the [GitHub profile page](h
 
 <br>
 
-## 🎮 My Contribution Graph
+## My Contribution Graph
 
 <!-- pacman -->
-
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/santhiya974/santhiya974/output/pacman-contribution-graph-dark.svg">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/santhiya974/santhiya974/output/pacman-contribution-graph.svg">
-  <img
-    alt="Pac-Man contribution graph"
-    src="https://raw.githubusercontent.com/santhiya974/santhiya974/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/santhiya974/santhiya974/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/santhiya974/santhiya974/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/santhiya974/santhiya974/output/pacman-contribution-graph.svg">
 </picture>
 
-*Renders after the workflow in `.github/workflows/main.yml` runs once.*
+*Renders after the workflow in `.github/workflows/main.yml` runs once — see setup steps below.*
 
 <br>
-
 
 ## Let's Connect
 
