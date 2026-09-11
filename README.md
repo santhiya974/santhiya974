@@ -185,14 +185,33 @@ Full contribution activity is shown automatically on the [GitHub profile page](h
 <br>
 
 ## My Contribution Graph
+## 🎮 My Contribution Graph
 
 <!-- pacman -->
+
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/santhiya974/santhiya974/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/santhiya974/santhiya974/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/santhiya974/santhiya974/output/pacman-contribution-graph.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/santhiya974/santhiya974/output/pacman-contribution-graph-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/santhiya974/santhiya974/output/pacman-contribution-graph.svg">
+  <img
+    alt="Pac-Man contribution graph"
+    src="https://raw.githubusercontent.com/santhiya974/santhiya974/output/pacman-contribution-graph.svg">
 </picture>
 
+*Renders after the workflow in `.github/workflows/main.yml` runs once.*
+
+<br>
+
+## Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhiya94)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://santhiya-portflio.netlify.app/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santhiya9704@gmail.com)
 *Renders after the workflow in `.github/workflows/main.yml` runs once — see setup steps below.*
 
 <br>
