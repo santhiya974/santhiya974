@@ -23,39 +23,25 @@ I'm a Computer Science Engineering graduate who builds full-stack applications e
 ## Tech Stack
 
 **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=py,js,c&theme=dark" height="55" alt="Python, JavaScript, C" />
 
 **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+<img src="https://skillicons.dev/icons?i=html,css,react&theme=dark" height="55" alt="HTML5, CSS3, React" />
 
 **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=flat-square)
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" height="55" alt="Node.js, Express" />
 
 **Database**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" height="55" alt="MongoDB, MySQL" />
 
 **Mobile**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" height="55" alt="Flutter, Dart" />
 
 **AI / Computer Vision**
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+<img src="https://skillicons.dev/icons?i=opencv,py&theme=dark" height="55" alt="OpenCV, Python" />
 
 **Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark" height="55" alt="Git, GitHub, Postman, VS Code" />
 
 <br>
 
@@ -136,6 +122,19 @@ Build → Debug → Test → Refactor → Improve
 <img src="https://github-readme-stats.vercel.app/api?username=santhiya974&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Santhiya's GitHub stats" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhiya974&layout=compact&theme=dark&hide_border=true" alt="Top languages" height="165" />
 </div>
+
+<br>
+
+## My Contribution Graph
+
+<!-- pacman -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/santhiya974/santhiya974/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/santhiya974/santhiya974/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/santhiya974/santhiya974/output/pacman-contribution-graph.svg">
+</picture>
+
+*Renders after the workflow in `.github/workflows/main.yml` runs once — see setup steps below.*
 
 <br>
 
