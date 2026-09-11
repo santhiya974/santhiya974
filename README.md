@@ -184,7 +184,6 @@ Full contribution activity is shown automatically on the [GitHub profile page](h
 
 <br>
 
-## My Contribution Graph
 ## 🎮 My Contribution Graph
 
 <!-- pacman -->
@@ -205,16 +204,6 @@ Full contribution activity is shown automatically on the [GitHub profile page](h
 
 <br>
 
-## Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhiya94)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://santhiya-portflio.netlify.app/)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santhiya9704@gmail.com)
-*Renders after the workflow in `.github/workflows/main.yml` runs once — see setup steps below.*
-
-<br>
 
 ## Let's Connect
 
