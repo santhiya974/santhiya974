@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Santhiya R — Software Developer banner" width="100%" />
+<img src="/banner.svg" alt="Santhiya R — Software Developer banner" width="100%" />
 
 ### Software Developer · Full Stack Developer · B.E. CSE Graduate
 
