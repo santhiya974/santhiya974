@@ -115,32 +115,83 @@ Building practical web applications and AI-driven systems with the MERN stack, P
 
 ## Featured Projects
 
-### 🛒 [GadgetHub — E-Commerce Web Application](https://github.com/santhiya974/gadgethub)
-A full-stack e-commerce platform built and validated against defined functional requirements.
-- **My contribution:** designed and integrated REST APIs with MongoDB, built product search/filtering, wishlist, cart, and comparison modules, and validated UI/UX consistency across devices
-- **Stack:** React.js · Node.js · Express.js · MongoDB
-- 🔗 [Live Demo](https://gadgethub-tech-gadget.netlify.app/)
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0b0f14,100:121821&height=90&section=header&text=Featured%20Projects&fontSize=32&fontColor=39d6c9&fontAlignY=55&animation=fadeIn&desc=Full%20stack%20%C2%B7%20computer%20vision%20%C2%B7%20mobile&descSize=14&descAlignY=75&descColor=8b98a5" width="100%" alt="Featured Projects" />
+</div>
 
-### 🚗 [Driver Drowsiness Detection System](https://github.com/santhiya974/driver-drownsiness-detection)
-A real-time fatigue-monitoring system that analyzes eye movement to flag driver drowsiness.
-- **My contribution:** built and validated the detection pipeline, tested accuracy across varied lighting/video conditions, and refined the model to reduce false positives
-- **Stack:** Python · OpenCV · Computer Vision
+<br>
 
-### 🦁 [Wild Animal Intrusion Detection](https://github.com/santhiya974/wild-animal-intrusion-detection)
-A real-time detection system that flags wild-animal intrusions into restricted areas from live video streams.
-- **My contribution:** integrated YOLOv8 and CNN-based detection, added automated email/audio alerts, and validated performance across multiple real-world test scenarios
-- **Stack:** Python · YOLOv8 · CNN · OpenCV
+#### 🛒 GadgetHub — E-Commerce Web Application
+*A full-stack e-commerce platform built and validated against defined functional requirements.*
 
-### 🔐 TheyDi — Face Verification & Liveness Module
-A Flutter-based social gathering app for the Indian market. **I did not build the full application** — my contribution is specifically the face verification module.
-- **My contribution:** camera-based face verification, liveness detection, and selfie capture; fixed ML Kit bounding-box normalization for sensor orientation and front-camera mirroring
-- **Stack:** Flutter · Dart · Google ML Kit
+> **My contribution**
+> Designed and integrated REST APIs with MongoDB · Built product search/filtering, wishlist, cart, and comparison modules · Validated UI/UX consistency across devices
 
-### 🧬 Breast Cancer Classification (Academic Project)
-An image classification project exploring dimensionality reduction and classical ML models for early cancer detection screening.
-- **My contribution:** built the preprocessing pipeline with PCA and trained/evaluated SVM and Random Forest classifiers
-- **Stack:** Python · scikit-learn · PCA
-- 🔗 [Notebook](YOUR_LINK_HERE) — *replace with your Colab/GitHub link*
+![React.js](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/santhiya974/gadgethub)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://gadgethub-tech-gadget.netlify.app/)
+
+<br>
+
+#### 🚗 Driver Drowsiness Detection System
+*A real-time fatigue-monitoring system that analyzes eye movement to flag driver drowsiness.*
+
+> **My contribution**
+> Built and validated the detection pipeline · Tested accuracy across varied lighting/video conditions · Refined the model to reduce false positives
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-111827?style=flat-square)
+
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/santhiya974/driver-drownsiness-detection)
+
+<br>
+
+#### 🦁 Wild Animal Intrusion Detection
+*A real-time detection system that flags wild-animal intrusions into restricted areas from live video streams.*
+
+> **My contribution**
+> Integrated YOLOv8 and CNN-based detection · Added automated email/audio alerts · Validated performance across multiple real-world test scenarios
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111827?style=flat-square)
+![CNN](https://img.shields.io/badge/CNN-111827?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+[![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/santhiya974/wild-animal-intrusion-detection)
+
+<br>
+
+#### 🔐 TheyDi — Face Verification & Liveness Module
+*A Flutter-based social gathering app for the Indian market.*
+
+> ⚠️ **I did not build the full application.** My contribution was specifically the face verification module.
+
+> **My contribution**
+> Camera-based face verification, liveness detection, and selfie capture · Fixed ML Kit bounding-box normalization for sensor orientation · Handled front-camera mirroring issues
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Google ML Kit](https://img.shields.io/badge/Google_ML_Kit-111827?style=flat-square&logo=google&logoColor=white)
+![Scope](https://img.shields.io/badge/Scope-Module_Contributor-3b82f6?style=flat-square)
+
+<br>
+
+#### 🧬 Breast Cancer Classification (Academic Project)
+*An image classification project exploring dimensionality reduction and classical ML models for early cancer detection screening.*
+
+> **My contribution**
+> Built the preprocessing pipeline with PCA · Trained and evaluated SVM and Random Forest classifiers
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PCA](https://img.shields.io/badge/PCA-111827?style=flat-square)
+
+[![Notebook](https://img.shields.io/badge/Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)](YOUR_LINK_HERE) — *replace with your Colab/GitHub link*
 
 <br>
 
